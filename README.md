@@ -1,5 +1,5 @@
 # Ruleta lab-04 
-## 📂 Estructura del Proyecto
+## Estructura del Proyecto
 * **`Modelo`**: Contiene la lógica de datos (`Usuario.java`, `Ruleta.java`).
 * **`Controlador`**: `SessionController.java` actúa como puente entre la lógica y la interfaz.
 * **`Vista`**: Clases de interfaz gráfica (`VentanaLogin`, `VentanaMenu`, `VentanaRuleta`).
